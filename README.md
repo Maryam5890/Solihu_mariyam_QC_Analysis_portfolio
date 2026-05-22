@@ -1,5 +1,5 @@
 ## Overview
-This portfolio documents my hands-on work as a Quality Control Data Analyst Intern at Polar Petrochemical Limited. It covers the full process — from raw handwritten lab registers to structured datasets, trend charts, and management-ready reports.
+This portfolio documents my hands-on work as a Quality Control Data Analyst Intern at Polar Petrochemical Limited. It covers the full process from raw handwritten lab registers to structured datasets, trend charts, and management-ready reports.
 
 The core question driving this project: *"Is product quality getting better, worse, or staying stable?"* Every chart and table here is built to answer that.
 
