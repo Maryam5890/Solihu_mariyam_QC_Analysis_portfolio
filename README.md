@@ -43,7 +43,7 @@ Both **Raw Material Intake** and **Finished Goods** stages are tracked and compa
 - **Average Viscosity Index of 102.3** — within specification for industrial lubricants
 - **3 flagged lots** identified for review or failure — all traced to raw material intake stage
 - Water content showed a **watch required** trend in mid-year batches, flagged for corrective action
-- Finished goods consistently outperformed raw intake in compliance — confirming the production process is adding value
+- Finished goods consistently outperformed raw intake in compliance, confirming the production process is adding value
 
 ## Skills Demonstrated
 
